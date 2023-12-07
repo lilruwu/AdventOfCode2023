@@ -15,8 +15,8 @@ This year is my first year doing this challenge and I am doing it for practising
 
 **4** :star:
 
-#### Day 1
+### Day 1
 I didn't enconter that much problem with the **Part 1** of the problem. **Part 2** was a bit more difficult but I could resolve it at the end with some help in *Reddit*.
 
-#### Day 2
+### Day 2
 This problem was easier that the first one, I solved **Part 1** really fast and **Part 2** too.
