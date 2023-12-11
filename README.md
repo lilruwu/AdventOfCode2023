@@ -33,4 +33,4 @@ This problem was easier that the first one, I solved **Part 1** really fast and 
 I've done **Part 1** really fast. **Part 2** was really more difficult to me, I get trouble with the variable *multiplier* because I didn't take into account where I had to reset it.
 
 ## Day 5
-***I am still working in this problem.***
+I've solved **Parte 1** but the code is not the optimous one. I am still working on **Part 2**
