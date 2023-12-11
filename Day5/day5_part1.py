@@ -78,7 +78,7 @@ with open("input.txt") as f:
             location = int(maps["humidity-to-location map"][humidity])
         else:
             location = humidity
-
+            
         if location < min_location or min_location == -1:
             min_location = location
     print("The result is: ", min_location)
